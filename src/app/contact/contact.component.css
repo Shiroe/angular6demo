@@ -1,0 +1,16 @@
+.profile-img {
+    border: 2px solid purple;
+    border-radius: 50%;
+}
+
+.contact-detail {
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+
+.contact-detail img {
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}

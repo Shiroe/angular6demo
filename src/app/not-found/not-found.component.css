@@ -1,0 +1,29 @@
+div.not-found {
+    min-height: 100vh;
+    background-color: #ececec;
+}
+
+div.not-found-content {
+    padding: 100px;
+    text-align: center;
+}
+
+p.lead {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.button-ctas {
+    text-align: center;
+}
+
+.button-ctas button {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.icon-credits {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}

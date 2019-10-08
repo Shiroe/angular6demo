@@ -1,0 +1,12 @@
+<div class="container">
+  <div class="post-form">
+    <label class="lead" for="post-title">Title</label>
+    <input type="text" id="post-title" [value]="post.title" />
+    <label class="lead" for="post-body">Body</label>
+    <input type="text" id="post-body" [value]="post.body"/>
+  </div>
+  <div class="post-form-actions">
+    <button class="btn btn-lg btn-primary" (click)="save()">Create</button>
+    <button class="btn btn-lg btn-secondary" (click)="cancel()">Cancel</button>
+  </div>
+</div>

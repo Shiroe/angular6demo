@@ -1,0 +1,35 @@
+.login-modal {
+    background-color: #ececec;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+    transition: opacity 0.5s;
+}
+
+button.close {
+    margin-right: 20px;
+    outline: none;
+}
+
+button.close > span {
+    font-size: 70px;
+}
+
+.form-signin {
+    position: relative;
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 40px auto;
+}
+
+.form-signin input {
+    margin-bottom: 10px;
+}
+
+.form-signin button {
+    margin-top: 20px;
+}

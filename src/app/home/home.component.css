@@ -1,0 +1,17 @@
+.row-actions {
+    display: flex;
+    padding: 16px 8px;
+    align-content: center;
+    justify-content: center;
+}
+
+.row-actions button {
+    margin: 5px;
+}
+
+.container.create-new {
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    margin-bottom: 40px;
+}

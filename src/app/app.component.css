@@ -1,0 +1,12 @@
+body {
+    background-color: #e7e7e7;
+}
+
+nav {
+    min-height: 60px;
+    margin-bottom: 20px;
+}
+
+#navbarNav a {
+    cursor: pointer;
+}

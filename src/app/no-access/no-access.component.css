@@ -1,0 +1,8 @@
+div.no-access {
+    min-height: 100vh;
+    background-color: #ececec;
+}
+
+div.no-access-content {
+    padding: 100px;
+}
